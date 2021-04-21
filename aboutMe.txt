@@ -1,0 +1,9 @@
+Name: Dillon Kanai
+Age: 21 years old
+DOB: 1/29/2000
+School: SCU
+Hobbies:
+- Video Games
+- Golf
+- Anime
+- Listening to music
